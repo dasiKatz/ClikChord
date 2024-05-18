@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-emblem-409411",
+  "private_key_id": "5d3efef1f1cc85caf79a19cf0d39045b670f8587",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaMU7fXEV6M7a0\n5X8JRhL0Vay4fedoDPEa91d0P5b6eESJIh6GER/k9E92tHo/l3koyH5QgDmNyRMg\nQvDxG/uS5NnzNo1lebRC2WbiXvDSb6IKy/nu8CT1RZQP4bsy2Hh+14I5QFaSK14A\nOydXUleA70tCS66HlIlKeeXQKjHgzOOKx26XMRmyhE3wuke94m/g4MQeL6uPaK86\nQushlyE6AQraHuXQilyc3XS9gLioJNou9WLM1kdl/qkymFjmKaHW7nAmO/5Vh5VP\nf7qxHg/HVhMXLxabXFC4aJCr9GFZkFhMJ0wY+uJ8AIymA2horY6opk4AkrR3YFpb\nW4/egBwdAgMBAAECggEADVQwyMVGu0HYefGBEqx0sPdg3z5Vug38VpTgg0n1K6TY\nLvZmHfOC2sYv6oT46NSUgrDIwpsqqOYtJG3icSAv/Je9VrWw6o+GOwUz20VIedp2\n8CjowjdqUo9nDZdRC7icl8cLffrXrwM2MVZrv1JY5Rf5JXohFcg1oNaUeuRw+pX8\nsVqNQd9EA2Yzb73ijYJn3fmTNXyD1ET9yjFAP6/7gnotvesOfR5w3ID7cYDw5ahz\nFPEPx/aQP8DXQZFq+i1fXlUUGOvjDN1aK2lydFdu2ixynj84YJ+zIb7H+JxFYfWj\ncGXv2QCeO6fxKbz2aaQUNK11mGz5qKjWJoHFlHDtgQKBgQD4SEb713h4CgTYQoPE\n2H6AerqXtZxtl8NtVACtYxc3+fHpE/ELxoFu4myzSifLVRK0XityU7eO1OhmhtYk\nvnUUWdnv5vXG2+3gr6VuarA4zNXj6ywyZD5NsJfHKuEgXqV3yGNLXrRz6d5SM6Ns\ngIyKhXzqNemoWFIWQGZJMOcgXQKBgQDg+ZcDbVwcnK+/ecIdQ4THP/I9OMttv1KC\nkS24CoOr1aToJ4PMaGu5M6gJ5mwNe2W9PfbQVvOsTRvSrcMACNykhv6rJ1QHyeNu\nTRHXhtwhf5zwwAUnTXXzVfX07dxLWzdDwOdxsE1SpEhZvGHUKK5XocKlcAPf3Qim\nr2CRkzAuwQKBgQCqdd0eXQId0CshWxFi3YyEoz5mmE6sw4xuDEVmxWiUius2rfVJ\ns2D8A0LEGX6W0HLGGP1VQfr9elmQwrRVh9mUPlgtqHFHtYltQMqgs2kHpkKXd8fh\nVQediUe7e0oTUkfipFbf0Uatany0DTX/cYaMODfaCWfBp9m74z0WtReKFQKBgHEN\nW1KwkNob7sEUiXQ1KrMJskwLj0ZuHyNXmxbhybr+2CiFOtjsHD3r9GRNMz0vJjgL\nvEyDdV2/Pd0Hznbk/SN8ZttRHwvu6ufRuMaKkXIP86iThcNzTHNkXf2fzdTcWJAm\njud1hdWikmztmmeHrdyBgBOsj3XeV+uTM77TrSHBAoGBAMvwABdgEkC2bKT/Swgo\nziDa+P4sMwfmUmEDfiW1Fc3uN9N0LDEDWv2g12JRXomhwFch2NQSgLxNWFiKAyzE\nwA0YTc4StZgLXeEZIHWHNv4ID/r9a326P37ML28tXABKabs87nSDeucxRf57smPE\nKdHWwSFB5pJsCV1GCB45ZXmd\n-----END PRIVATE KEY-----\n",
+  "client_email": "dasiproject@cogent-emblem-409411.iam.gserviceaccount.com",
+  "client_id": "114189129635778421107",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dasiproject%40cogent-emblem-409411.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
