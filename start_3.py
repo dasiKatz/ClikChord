@@ -18,9 +18,9 @@ def get_bpm(audio_file):
     return tempo*length
 
 # Example usage
-audio_file = 'AvartiBachoshech.mp3'
-bpm = get_bpm(audio_file)
-print("BPM:", bpm)
+#audio_file = 'AvartiBachoshech.mp3'
+#bpm = get_bpm(audio_file)
+#print("BPM:", bpm)
 
 #rhythm = start_2.miktzav('AvartiBachoshech.mp3')# לקבל את הערת מהפונקציה Miktzav3_4
 #beat_seconds = get_beat_seconds(audio_file, rhythm)

@@ -5,7 +5,7 @@ import os
 import keras
 from keras.models import load_model
 from natsort import natsorted
-#from keras.initializers import Orthogonal
+from keras.initializers import Orthogonal
 from tensorflow.keras.initializers import Orthogonal
 
 
@@ -94,8 +94,8 @@ def identify_chords_in_folder(folder_path):
 
 #identify_chords_in_folder("files_wav")
 # התקייה שבה נרצה לבצע את זיהוי האקורדים
-folder_path = r'C:\Users\User\Desktop\Project\files_wav'
-identify_chords_in_folder(folder_path)
+#folder_path = r'C:\Users\User\Desktop\Project\files_wav'
+#identify_chords_in_folder(folder_path)
 
 
 
